@@ -1,0 +1,224 @@
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.csproj.AssemblyReference.cache
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.csproj.SuggestedBindingRedirects.cache
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.frmCEP.resources
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.Properties.Resources.resources
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.csproj.GenerateResource.cache
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.csproj.CoreCompileInputs.cache
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\agoravai.exe.config
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\agoravai.pdb
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\RestSharp.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Buffers.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Memory.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Text.Json.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.ValueTuple.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\RestSharp.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Buffers.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Memory.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Text.Json.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.ValueTuple.xml
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.csproj.CopyComplete
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\teste\agoravai\obj\Debug\agoravai.pdb
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Dapper.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Npgsql.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Collections.Immutable.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Threading.Channels.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Dapper.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\Npgsql.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Collections.Immutable.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.Threading.Channels.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\ClosedXML.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\ExcelNumberFormat.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\System.IO.Packaging.dll
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\ClosedXML.pdb
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\ClosedXML.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\caisantander\Desktop\teste\agoravai\bin\Debug\ExcelNumberFormat.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\agoravai.exe.config
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\agoravai.pdb
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\ClosedXML.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Dapper.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\ExcelNumberFormat.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Npgsql.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\RestSharp.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Buffers.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Collections.Immutable.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.IO.Packaging.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Memory.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Text.Json.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Threading.Channels.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.ValueTuple.dll
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\ClosedXML.pdb
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\ClosedXML.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Dapper.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\ExcelNumberFormat.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\Npgsql.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\RestSharp.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Buffers.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Collections.Immutable.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Memory.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Text.Json.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Threading.Channels.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\bin\Debug\System.ValueTuple.xml
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.csproj.AssemblyReference.cache
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.csproj.SuggestedBindingRedirects.cache
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.frmCEP.resources
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.Properties.Resources.resources
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.csproj.GenerateResource.cache
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.csproj.CoreCompileInputs.cache
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.csproj.CopyComplete
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\teste\Aplicação\obj\Debug\agoravai.pdb
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\agoravai.exe.config
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\agoravai.pdb
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\ClosedXML.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Dapper.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\ExcelNumberFormat.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Npgsql.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\RestSharp.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Buffers.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Collections.Immutable.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.IO.Packaging.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Memory.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Text.Json.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Threading.Channels.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.ValueTuple.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\ClosedXML.pdb
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\ClosedXML.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Dapper.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\ExcelNumberFormat.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\Npgsql.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\RestSharp.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Buffers.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Collections.Immutable.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Memory.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Text.Json.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Threading.Channels.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\bin\Debug\System.ValueTuple.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.csproj.AssemblyReference.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.csproj.SuggestedBindingRedirects.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.frmCEP.resources
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.Properties.Resources.resources
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.csproj.GenerateResource.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.csproj.CoreCompileInputs.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.csproj.CopyComplete
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\Case Pagou Facil\Aplicação\obj\Debug\agoravai.pdb
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\agoravai.exe.config
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\agoravai.pdb
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\ClosedXML.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Dapper.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\ExcelNumberFormat.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Npgsql.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\RestSharp.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Buffers.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Collections.Immutable.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.IO.Packaging.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Memory.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Text.Json.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Threading.Channels.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.ValueTuple.dll
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\ClosedXML.pdb
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\ClosedXML.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Dapper.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\ExcelNumberFormat.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\Npgsql.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\RestSharp.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Buffers.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Collections.Immutable.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Memory.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Text.Json.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Threading.Channels.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\bin\Debug\System.ValueTuple.xml
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.csproj.AssemblyReference.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.csproj.SuggestedBindingRedirects.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.frmCEP.resources
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.Properties.Resources.resources
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.csproj.GenerateResource.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.csproj.CoreCompileInputs.cache
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.csproj.CopyComplete
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.exe
+C:\Users\caisantander\Desktop\Case Pagou Facil\App\obj\Debug\agoravai.pdb

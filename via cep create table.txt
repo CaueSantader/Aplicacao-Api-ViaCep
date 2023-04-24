@@ -1,0 +1,24 @@
+
+--UTILIZADO PARA CRIAR A CHAVE PRIMARIA EM SEQUENCIA (PADRÃO EMPRESA)
+CREATE SEQUENCE public.es_via_cep_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 1
+  CACHE 1
+  
+  CREATE TABLE public.es_viacep
+(
+id_es_via_cep_seq_int bigint 	NOT NULL DEFAULT nextval(('"es_via_cep_seq"'::text)::regclass),
+cep_str				varchar(10) NOT NULL,	
+logradouro_str			varchar(120) NOT NULL,
+complemento_str			varchar(30) NOT NULL,
+bairro_str			varchar(30) NOT NULL,	
+localidade_str			varchar(50) NOT NULL,	
+uf_str				varchar(2) NOT NULL,
+ibge_str			varchar (20) NOT NULL,
+gia_str				varchar (20) NOT NULL,
+ddd_str				varchar (2) NOT NULL,
+siafi_str			varchar (20) NOT NULL,
+tstamp 				timestamp with time zone	,
+PRIMARY KEY (id_es_via_cep_seq_int))
